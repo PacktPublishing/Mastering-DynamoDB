@@ -24,7 +24,7 @@ If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1783
 alt="https://www.packtpub.com/" border="5" /></a>
 
 ## Instructions and Navigations
-All of the code is organized into folders. For example, Chapter02.
+All of the code is organized into folders. For example, Chapter01.
 
 The code will look like the following:
 ```
@@ -50,7 +50,7 @@ Before he wrote this book, he also authored two books, Mastering DynamoDB and Cl
 
 [Learning Apache Flink](https://www.packtpub.com/big-data-and-business-intelligence/learning-apache-flink?utm_source=github&utm_medium=repository&utm_campaign=9781786466228 )
 
-[](https://www.packtpub.com/big-data-and-business-intelligence/hadoop-data-processing-and-modelling?utm_source=github&utm_medium=repository&utm_campaign=)
+[Hadoop: Data Processing and Modelling](https://www.packtpub.com/big-data-and-business-intelligence/hadoop-data-processing-and-modelling?utm_source=github&utm_medium=repository&utm_campaign=)
 
 
 ### Suggestions and Feedback
